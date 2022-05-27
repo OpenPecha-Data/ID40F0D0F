@@ -1,0 +1,19 @@
+id: c5e0f46d7df34fb89d67024894379244
+annotation_type: index
+revision: '00001'
+annotations:
+  1a75b896e5e146b1b835d0eaaefc8ea9:
+    base: f0738.txt
+    span:
+      start: 0
+      end: 70
+  cdff35fafd7348c5b2daab95e32c3296:
+    base: f5944.txt
+    span:
+      start: 0
+      end: 4928
+  7469c44a3ce84487adf093932c758b91:
+    base: f6D64.txt
+    span:
+      start: 0
+      end: 240
